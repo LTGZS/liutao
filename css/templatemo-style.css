@@ -720,5 +720,40 @@ footer {
 	margin: 10px;
 	width: 350px;
 	height: 350px;
-	background-color: #1B6D85;
+	/* background-color: #1B6D85; */
+	text-align: center;
+	font-weight: bold !important;
+	font-size: 18px !important;
+}
+.sjsjs div:hover img{
+	-webkit-filter: grayscale(0%);filter: grayscale(0%);
+}
+.sjsjs div img{
+	display: block;
+	width: 60%;
+	margin: 0 auto;
+	border-radius:50% ;
+	margin-top: 20px;
+	box-shadow:  3px 3px 3px #333333, -3px -3px 3px #666666;
+	-webkit-filter: grayscale(100%);filter: grayscale(100%);
+} 
+.sjsjs div p{
+	display: block;
+	color: #000000;
+	font-weight: bold;
+	margin-top: 20px;
+}
+.sjsjs div a{
+	display: block;
+	margin: 0 auto;
+	width: 100px !important;
+	height: 30px !important;
+	line-height: 26px;
+	/* background-color: #555555; */
+	border:black 2px solid;
+	border-radius:50px ;
+	/* box-shadow:  2px 2px 3px #333333, -2px -2px 3px #666666; */
+}
+.sjsjs div a:hover{
+	background-color:black;
 }
