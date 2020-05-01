@@ -354,7 +354,7 @@ a:hover, a:active, a:focus {
 }
 
 #home .home-img {
-  background: url('../images/home-img.jpg') no-repeat;
+  background: url('http://pic1.win4000.com/wallpaper/2020-04-14/5e957e86e833e.jpg') no-repeat;
   background-size: cover;
   background-position: 50% 50%;
   width: 100%;
@@ -381,7 +381,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #about .about-img {
-    background: url('../images/about-img.jpg') no-repeat;
+    background: url('https://img.zcool.cn/community/01f70b5ddeaa73a801215972bd5a97.jpg@1280w_1l_2o_100sh.jpg') no-repeat;
 }
 
 #about .about-thumb,
@@ -438,7 +438,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('https://img.zcool.cn/community/01c4245ddeaa73a80120686bb0abeb.jpg@1280w_1l_2o_100sh.jpg') no-repeat;
 }
 
 #experience .media-heading {
@@ -464,7 +464,7 @@ a:hover, a:active, a:focus {
 }
 
 #education .education-img {
-  background: url('../images/education-img.jpg') no-repeat;
+  background: url('https://img.zcool.cn/community/0141fe5e147c59a80120a895f6b5bc.jpg@1280w_1l_0o_100sh.jpg') no-repeat;
 }
 
 #education .media-heading {
@@ -488,7 +488,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #quotes {
-    background: url('../images/quotes-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('https://img.zcool.cn/community/01f4e95e9077dea80120a8952b4ad8.jpg@1280w_1l_2o_100sh.jpg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
@@ -531,7 +531,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .contact-img {
-  background: url('../images/contact-img.jpg') no-repeat;
+  background: url('https://img.zcool.cn/community/01e4845e68d9c9a801216518c1a69b.jpg@1280w_1l_2o_100sh.jpg') no-repeat;
   min-height: 75vh;
 }
 
@@ -702,3 +702,23 @@ footer {
   }
 }
 /*刘涛qq:2814063673*/
+.bqsm{
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	color: black;
+	margin: 10px;
+	}
+.sjsjs{
+	width: 100%;
+	height: 400px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.sjsjs div{
+	margin: 10px;
+	width: 350px;
+	height: 350px;
+	background-color: #1B6D85;
+}
