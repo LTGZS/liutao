@@ -711,7 +711,7 @@ footer {
 	}
 .sjsjs{
 	width: 100%;
-	height: 400px;
+	height: auto;
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
