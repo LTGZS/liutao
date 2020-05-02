@@ -757,3 +757,11 @@ footer {
 .sjsjs div a:hover{
 	background-color:black;
 }
+.yyzs{
+	display: block; width: 30%;margin: 0 auto;
+}
+@media screen and (max-width: 768px) {
+	.yyzs{
+		display: block; width: 100%;margin: 0 auto;
+	}
+}
